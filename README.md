@@ -1,7 +1,7 @@
 # Welcome to My Profile
 
 
-<img src="CA.PNG" alt="ca" >
+
 
 
 ## 1.Personal Information
