@@ -15,9 +15,10 @@ Watching movies has always been my go to activity for all occasions. My love for
 
 
 <h2>2.Interest in IT </h2>
-<p> 
+<h3>
 ●What is your interest in IT?
- <br>
+ </h3>
+ <p> 
 Well, I enjoy programming, especially, it gives me a sense of satisfaction when I accomplished a small project or a program.  
 </p>
 
