@@ -51,6 +51,8 @@ I want to learn more programming languages and develop multiple  ways in terms o
 <p>
  My ideal job is cloud architect.
 <img src="CA.PNG" alt="ca" >
+ </p>
+<p> 
 link: https://www.seek.com.au/job/39631223?searchrequesttoken=b83e4095-7062-4da6-aae4-9abfcee6cdbb&type=standard
 </p>
 <p>
