@@ -1,12 +1,5 @@
 
 
-
-
-
-
-
-
-
 # Welcome to My Profile
 
 
