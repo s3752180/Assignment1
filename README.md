@@ -14,9 +14,10 @@ Hobbies:
 Watching movies has always been my go to activity for all occasions. My love for movies start with Avatar, I remember I was ten years old when I first saw this movie on a Pirated CD because the movie was so popular at the time and the cinema was not as universal as it is now, but anyway I was still impressed by the fancy special effects and fascinating story. Avatar really opened another world for me. Additionally, basketball is one of my biggest interests, love watching NBA, big fan of GOLDEN STATE WARRIORS.
 
 
-<h2>Interest in IT </h2>
+<h2>2.Interest in IT </h2>
 <p> 
-●What is your interest in IT?   
+●What is your interest in IT?
+ <br>
 Well, I enjoy programming, especially, it gives me a sense of satisfaction when I accomplished a small project or a program.  
 </p>
 
