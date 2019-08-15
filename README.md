@@ -21,7 +21,7 @@ xyy25957627366@gmail.com(personal)
 Nationality: China
 Hobbies: 
 Watching movies has always been my go to activity for all occasions. My love for movies start with Avatar, I remember I was ten years old when I first saw this movie on a Pirated CD because the movie was so popular at the time and the cinema was not as universal as it is now, but anyway I was still impressed by the fancy special effects and fascinating story. Avatar really opened another world for me. Additionally, basketball is one of my biggest interests, love watching NBA, big fan of GOLDEN STATE WARRIORS.
-![image of me]({{ site.url }}/Assignment1/test1.PNG)
+<img src="/Assignment1/test1.PNG">
 
 
 <h2>2.Interest in IT </h2>
