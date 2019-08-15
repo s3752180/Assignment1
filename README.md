@@ -21,28 +21,31 @@ Watching movies has always been my go to activity for all occasions. My love for
  <p> 
 Well, I enjoy programming, especially, it gives me a sense of satisfaction when I accomplished a small project or a program.  
 </p>
-
-
-
+<h3>
 ●When did your interest in IT start? 
-
+  </h3>
+<p> 
 Back in high school, it starts with a little programming  project “Hello World!”. I followed my teacher step by step and I still remember the feeling when “Hello World!” appeared on my computer screen, it’s so unreal like the computer in front of me is alive and I just find the right language to communicate with him.
-
+</p>
+<h3>
 ●Outline your IT experience (if any).
-
+</h3>
+<p>
 I learned a very basic programming language called visual basic back in high school. And I started to learn c++ on online courses by myself this year. And if you count game as IT experience well I have played lots of them, CS, CF, LOL, GTA (1,2,3,4,5)…
-
-
+</p>
+<h3>
 ● Why did you choose to come to RMIT?
-
+</h3>
+<p>
 Well, after I finish my college entrance examination, I chose to study abroad. And rmit sent me an offer without the need to attend Foundation which takes almost a year as long as I pass the IELTS test. Besides, studying abroad is really an eye- opening journey.
-
-
+</p>
+<h3>
 ● What do you expect to learn during your studies?
-
+</h3>
+<p>
 I want to learn more programming languages and develop multiple  ways in terms of solving the problems. And learn to work as a group, develop some valuable skills that  I may need in my future career.
+</p>
 
- </p> 
 
 
 
