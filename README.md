@@ -50,7 +50,7 @@ I want to learn more programming languages and develop multiple  ways in terms o
 ## 3.Ideal Job
 <p>
  My ideal job is cloud architect.
-<img CA
+<img src="CA.PNG" alt="ca" >
 link:https://www.seek.com.au/job/39631223?searchrequesttoken=b83e4095-7062-4da6-aae4-9abfcee6cdbb&type=standard
 
 The responsibility of the cloud computing architect is to oversee the company's cloud computing strategy, including cloud adoption planning, cloud application design, cloud management and monitoring, as well as overseeing the application architecture and its deployment in the cloud environment, including public clouds, private clouds. In addition to the hybrid cloud, cloud architects are professional consultants throughout the organization and must have a keen sense of the latest developments in cloud computing.Besides this job requires a bachelor of  computer science degree, which is not my current major so I may transfer my major into CS next semester. 
