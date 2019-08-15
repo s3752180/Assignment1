@@ -35,3 +35,21 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE html>
+<html>
+  
+<head>
+<title>My Assignment1</title>
+</head>
+<body>
+<h1 style="background-color:DodgerBlue;">DodgerBlue</h1>  
+  
+<p> adasd. </p>
+  
+ <p> asdaf. </p>
+<h1>This is a Heading</h1>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
+
