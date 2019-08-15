@@ -47,7 +47,7 @@ I want to learn more programming languages and develop multiple  ways in terms o
 </p>
 
 
-## 3.Ideal Job
+<h2>3.Ideal Job</h2>
 <p>
  My ideal job is cloud architect.
 <img src="CA.PNG" alt="ca" >
