@@ -79,11 +79,11 @@ So during my school time I need to take my homework seriously and actively parti
 
 <h2>4.Personal Profile </h2>
 <h3>online Myers Briggs test </h3>
-<img src="test1.PNG" widht="600" height="400" >
+<img src="test1.PNG" widht="1000" height="400" >
 <h3>Online learning style test</h3>
-<img src="test2.PNG" widht="600" height="400" >
+<img src="test2.PNG" widht="1000" height="400" >
 <h3>Online IQ test</h3>
-<img src="IQ.PNG" widht="600" height="400" >
+<img src="IQ.PNG" widht="800" height="400" >
 <P>●What do the results of these tests mean for you?</P>
 <P>To be honest, I don’t think these tests are very accurate. Especially the IQ test，I dont't think that I am gifted and only 14% of the population has such a high IQ. However, this result is very encouraging, and it helps me to Improve my self-confidence.</P>
 <P>● How do you think these results may influence your behaviour in a team?</P>
