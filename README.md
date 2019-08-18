@@ -79,17 +79,17 @@ So during my school time I need to take my homework seriously and actively parti
 
 <h2>4.Personal Profile </h2>
 <h3>online Myers Briggs test </h3>
-<img src="test1.PNG" widht="300" height="400" >
+<img src="test1.PNG" widht="600" height="400" >
 <h3>Online learning style test</h3>
-<img src="test2.PNG" widht="300" height="400" >
+<img src="test2.PNG" widht="600" height="400" >
 <h3>Online IQ test</h3>
-<img src="IQ.PNG" widht="300" height="400" >
+<img src="IQ.PNG" widht="600" height="400" >
 <P>●What do the results of these tests mean for you?</P>
-
+<P>To be honest, I don’t think these tests are very accurate. Especially the IQ test，I dont't think that I am gifted and only 14% of the population has such a high IQ. However, this result is very encouraging, and it helps me to Improve my self-confidence.</P>
 <P>● How do you think these results may influence your behaviour in a team?</P>
-
+<P>As I said before, these tests are not accurate enough, considering there are only very limited questions. Therefore, I don't care very much about the results no matter they are good or bad, but of course, some points are realistic, like I need to be more active in a team work.</P>
 <P>●How should you take this into account when forming a team?</P>
-
+<P>Well, I won't formate a team with people who are very lazy and irresponsible, because these people often fail to complete the tasks assigned to them and drag the progress of the entire group.</P>  
 <h2>5.Project ideas </h2>
 <p>The project I want to design is aimed to make the payment much more convenient all over the world. This application can meet the need of users for fast payment. Every user has their own unique QR code. And they can bind multiple bind to these cards and set a payment password. So now the preparation is ready, users can finish their payment by scanning other user’s QR code. Actually, this kind of application is already exist in China, but I want to make it more influential make it an international application which means I need to add an exchange rate conversion system that convert one type of currency to another currency immediately according to the latest exchange rate. </p>
 <p>
