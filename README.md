@@ -72,7 +72,8 @@ link: https://www.seek.com.au/job/39631223?searchrequesttoken=b83e4095-7062-4da6
 </p>
 <p>
 The responsibility of the cloud computing architect is to oversee the company's cloud computing strategy, including cloud adoption planning, cloud application design, cloud management and monitoring, as well as overseeing the application architecture and its deployment in the cloud environment, including public clouds, private clouds. In addition to the hybrid cloud, cloud architects are professional consultants throughout the organization and must have a keen sense of the latest developments in cloud computing.Besides this job requires a bachelor of computer science degree, which is not my current major so I may transfer my major into CS next semester. 
-
+</p>
+<p>
 Frankly speaking, I just know the existence of this job but I was attracted by this job as soon as I know this job can earn six-figure salary. But of course, I’m not qualified for this job now as I only have the experience of a few programming languages and almost zero working experience. In order to get this job, I need to have lots of experience both academically and socially. 
 So during my school time I need to take my homework seriously and actively participate in group cooperation projects.Besides this job is highly skilled required so I need to take the initiative to learn and make full use of my spare time. And hopefully when I graduate I can get a job as an assistant for a cloud architect or I will take an Internship in a  related companies in order to gather more working experience and learn some valuable lessons from senior. Otherwise I might consider studying further to polish my skills and get a master's degree.
 
