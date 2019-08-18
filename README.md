@@ -59,7 +59,10 @@ I want to learn more programming languages and develop multiple  ways in terms o
 
 <h2>3.Ideal Job</h2>
 <p>
- My ideal job is cloud architect.
+ My ideal job is cloud architect. 
+</p>
+<P>
+Advertisement：
 <img src="CA.PNG" widht="400" height="500"  >
  </p>
 <p> 
@@ -80,6 +83,11 @@ So during my school time I need to take my homework seriously and actively parti
 <img src="test2.PNG" widht="300" height="400" >
 <h3>Online IQ test</h3>
 <img src="IQ.PNG" widht="300" height="400" >
+<P>●What do the results of these tests mean for you?</P>
+
+<P>● How do you think these results may influence your behaviour in a team?</P>
+
+<P>●How should you take this into account when forming a team?</P>
 
 <h2>5.Project ideas </h2>
 <p>The project I want to design is aimed to make the payment much more convenient internationally. This application can meet the need of users for fast payment. Every individual has their own unique QR code. And they can bind multiple bind to these cards and set a payment password. So now the preparation is ready, users can finish their payment by scanning other user’s QR code. Actually, this kind of application is already exist in China, but I want to make it more influential make it an international application which means I need to add an exchange rate conversion system that convert one type of currency to another currency immediately according to the latest exchange rate. </p>
