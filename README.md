@@ -60,7 +60,7 @@ I want to learn more programming languages and develop multiple  ways in terms o
 <h2>3.Ideal Job</h2>
 <p>
  My ideal job is cloud architect.
-<img src="CA.PNG" alt="ca" >
+<img src="CA.PNG" widht="400" height="500"  >
  </p>
 <p> 
 link: https://www.seek.com.au/job/39631223?searchrequesttoken=b83e4095-7062-4da6-aae4-9abfcee6cdbb&type=standard
@@ -73,7 +73,15 @@ So during my school time I need to take my homework seriously and actively parti
 
  </p>
 
-<h2>4.Project ideas </h2>
+<h2>4.Personal Profile </h2>
+<h3>online Myers Briggs test </h3>
+<img src="test1.PNG" widht="300" height="400" >
+<h3>Online learning style test</h3>
+<img src="test2.PNG" widht="300" height="400" >
+<h3>Online IQ test</h3>
+<img src="IQ.PNG" widht="300" height="400" >
+
+<h2>5.Project ideas </h2>
 <p>The project I want to design is aimed to make the payment much more convenient internationally. This application can meet the need of users for fast payment. Every individual has their own unique QR code. And they can bind multiple bind to these cards and set a payment password. So now the preparation is ready, users can finish their payment by scanning other user’s QR code. Actually, this kind of application is already exist in China, but I want to make it more influential make it an international application which means I need to add an exchange rate conversion system that convert one type of currency to another currency immediately according to the latest exchange rate. </p>
 <p>
 I firmly believe that this application can bring tons of convenient to people’s day to day life. First of all its simple and fast, during the shopping，by using this application to pay the checkout, the process can be completed in just 3 seconds, saving a lot of time wasted due to waiting in line, changing the time, etc., making shopping more comfortable. Secondly, merchants can effectively avoid the drawbacks of counterfeiting and cashier cheating by collecting money through electronic money. What’s more, losing the bank card can be very frustrating. According to new Commonwealth Bank data, “more than 689,000 people reported their debit or credit cards stolen over the past 12 months, equating to roughly 1,800 every day – and that’s just for CommBank customers.” However, as long as you use this application there is no need to bring your bank card with you. And for travelers, this application helps them avoid the complicated currency-exchange process. </p>
