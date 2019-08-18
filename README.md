@@ -18,7 +18,10 @@ xyy25957627366@gmail.com(personal)</P>
  <P>
 Hobbies: 
 Watching movies has always been my go to activity for all occasions. My love for movies start with Avatar, I remember I was ten years old when I first saw this movie on a Pirated CD because the movie was so popular at the time and the cinema was not as universal as it is now, but anyway I was still impressed by the fancy special effects and fascinating story. Avatar really opened another world for me. Additionally, basketball is one of my biggest interests, love watching NBA, big fan of GOLDEN STATE WARRIORS.
-</P>
+ 
+ <img src="1.jpg" alt="ca" >
+ </p>
+
 
 
 <h2>2.Interest in IT </h2>
